@@ -35,6 +35,8 @@ The Arduino based handheld devices, with above mentioned sensors are connected t
 
 The parameters that we gather from handheld devices through different sensors will be updated in our real-time database (Google Firebase) as raw data and be processed for assessment using Machine Learning to get overall Quality Score. This data will be integrated with Remote Sensing application and database of ISRO/NASA, to process additional paramters such as zonal imagery and other data gathered by remote sensing.   
 
+**Remote Sensing Example**
+
 ![remotesensingexample](images/ISRO_remote_sensing.jpg)
 
 ## Use case Diagram
