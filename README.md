@@ -4,6 +4,10 @@
 
 Narich is a Raw Jute Assessment device for India which was developed based on a problem statement given by **National Jute Board, Ministry of Textiles** in **SIH 2020 - Hardware Edition**. 
 
+**Problem Statement Number:** AR249
+
+**Problem Statement Title:** Scientific way of assessing the quality parameters of raw jute produced/sold by farmers by linking with raw jute crop assessment through remote sensing application of NASA/ISRO.
+
 ## Project Description
 
 Narich helps in assessing the quality parameters of the raw jute by measuring and assessing:
