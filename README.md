@@ -2,7 +2,7 @@
 
 <image src="images/logo.png" height=75 width=175/>
 
-Narich is a Raw Jute Assessment device for India which was developed based on a problem statement given by **National Jute Board, Ministry of Textiles** in SIH 2020 - Hardware Edition. 
+Narich is a Raw Jute Assessment device for India which was developed based on a problem statement given by **National Jute Board, Ministry of Textiles** in **SIH 2020 - Hardware Edition**. 
 
 ## Project Description
 
