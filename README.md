@@ -12,6 +12,8 @@ Narich is a Raw Jute Assessment device for India which was developed by **Team C
 
 ## Project Description
 
+![jute](images/crops.png)
+
 Narich helps in assessing the quality parameters of the raw jute by measuring and assessing:
 
 * Texture quality of the raw jute using Small Flat Microphone with FFT Analysis & Deep Learning.
@@ -23,6 +25,10 @@ Narich helps in assessing the quality parameters of the raw jute by measuring an
 The above mentioned parameters can be assessed in real-time using Arduino based device integrated with necessary sensors
 connected to Raspberry Pi based Central Node which is going to be linked with Remote Sensing application (NASA/ISRO) using GSM & LoRa
 Technology.
+
+## Tech Stack
+
+![techstack](images/tech_stack.png)
 
 ## Abstract
 
